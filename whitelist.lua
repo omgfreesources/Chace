@@ -1,4 +1,4 @@
-local OK_IDS = {
+IDS = [
 920389780,
-}
-return OK_IDS
+]
+return IDS
